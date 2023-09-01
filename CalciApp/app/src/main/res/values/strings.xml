@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CalciApp</string>
+    <string name="add">add</string>
+    <string name="enter_num_1">Enter num 1</string>
+    <string name="enter_num2">Enter num2</string>
+    <string name="textview">TextView</string>
+    <string name="sub" />
+    <string name="button">Button</string>
+    <string name="mul">mul</string>
+    <string name="Div">Div</string>
+</resources>
